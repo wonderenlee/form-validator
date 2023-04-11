@@ -1,4 +1,6 @@
-## Form Validator (Intro Project)
+## Progressive Web Application (PWA)
+
+## Form Validator
 
 Simple client side form validation. Check required, length, email and password match
 
